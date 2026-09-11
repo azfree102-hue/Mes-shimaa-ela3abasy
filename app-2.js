@@ -963,7 +963,7 @@ document
                 );
 
                 setTimeout(() => {
-                    window.location.href = "/Mes-shimaa-ela3abasy/teacher/";
+                    window.location.href = "/Mes-shimaa-ela3abasyteacher/";
                 }, 400);
 
                 return;
